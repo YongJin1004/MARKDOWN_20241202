@@ -1,9 +1,15 @@
 # MARKDOWN_20241202
 MARKDOWN_20241202
 
+### 7. 
+
+
 ### 6. 링크(Link)
->[링크 텍스트](URL) 형태로 작성합니다.  
-[PCWK_Daum](https://cafe.daum.net/pcwk)
+`[링크 텍스트](URL) 형태로 작성합니다.`   
+[PCWK_Daum](https://cafe.daum.net/pcwk)  
+**같은 페이지내 하이퍼링크**  
+[여기](#4-코드블록)  
+
 
 
 ### 5. 목록
@@ -60,4 +66,5 @@ public class Hello{
 ### 1. 문단 구분을 위한 개행
 겨울 바다를 걸어 보아요.  
 (개행: Space 2개)  
-첫눈이 왔어요.
+첫눈이 왔어요.  
+#4-코드블록
