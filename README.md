@@ -1,16 +1,19 @@
 # MARKDOWN_20241202
 MARKDOWN_20241202
 
-### 7. 
+### 8. 이미지
+`이미지는 ![이미지 텍스트](이미지URL)`  
 
-
+### 7. 강조(Emphasis)
+- Bold: **텍스트** 또는 __text__  
+- Italic: *텍스트* 또는 _text_
+- Bold + Italic ***텍스트***
+  
 ### 6. 링크(Link)
 `[링크 텍스트](URL) 형태로 작성합니다.`   
 [PCWK_Daum](https://cafe.daum.net/pcwk)  
 **같은 페이지내 하이퍼링크**  
 [여기](#4-코드블록)  
-
-
 
 ### 5. 목록
 
